@@ -1,8 +1,8 @@
-I. Welcome\n
-    Name: Joshua Capron\n
-    Code: CSE 212 Final Project (Data Structure Tutorial)\n
-    Github: JoshuaCapron64\n
-    Student email: cap17008@byui.edu\n
+I. Welcome
+    Name: Joshua Capron
+    Code: CSE 212 Final Project (Data Structure Tutorial)
+    Github: JoshuaCapron64
+    Student email: cap17008@byui.edu
 
 II. Data Structures to be Covered:
     -queue (might possibly change to stack)
