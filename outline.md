@@ -11,7 +11,8 @@ II. Data Structures to be Covered:
 
 III. Queue:
     -Introduction
-    -uses
+    -uses/why use Queues
+    -Big O Notation
     -enqueue()
     -dequeue()
     -example
@@ -19,7 +20,8 @@ III. Queue:
 
 IV. Set:
     -Introduction
-    -uses
+    -uses/why use Sets
+    -Big O Notation
     -add()
     -update()
     -pop()
@@ -29,7 +31,8 @@ IV. Set:
 
 V. Tree:
     -Introduction
-    -uses
+    -uses/why use Trees
+    -Big O Notation
     -nodes
     -traversals
     -example
