@@ -15,7 +15,8 @@ is at the front of the queue. This type of linear sequence is usually referred t
 first-in-first-out, or FIFO. This allows for the storing of necessary related entities to
 be processed and used for later, essentially acting as a form of a buffer. It also serves
 to accomplish breadth-first searches compatible with Trees, as discussed in a different
-tutorial.
+tutorial. Python has its own simplified means of utilizing the aforementioned operators,
+as I will demonstrate in the examples below.
 
 Big O Notation:
 As pertaining to Space or Searching: O(n)
@@ -34,10 +35,6 @@ class queue_example:
         print(f"Initial Queue: ")
         for item in queue.queue:
             print(item)
-        # x = queue.qsize()
-        # while not queue.empty():
-        #     print(queue.get(x))
-        #     x -= 1
     first(queue1)
     def second(queue):
         queue.get()
@@ -66,6 +63,7 @@ class queue_problem:
     queue_preset(q)
 
     #TODO add whatever code you want here:
+
 
     #Do not change any of the following code:
     print("Problem Queue:")
