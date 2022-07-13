@@ -19,7 +19,6 @@ Output:
 Set 1:
 {3, 5}
 """
-
     set1.add(1) #adds a single element to the Set
     print(set1) #prints the Set now with the previous element added
 """
@@ -61,7 +60,6 @@ Output:
 
 {1, 2}
 """
-
     print("\nSet 3:")
     set3 = {"A", "B", "C", "D", "E"} #this Set will showcase element retrieval
     print(set3) #notice how the letters are now scrambled
