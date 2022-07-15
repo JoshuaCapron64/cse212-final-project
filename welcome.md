@@ -6,7 +6,7 @@ Github: JoshuaCapron64
 
 Student email: cap17008@byui.edu
 
-Hello, and welcome to my tutorial! In this tutorial, I will be showcasing the usage of three integral Data Structures using the Python programming language, namely Queue, Set, and Tree. Links to each tutorial can be found below.
+Hello, and welcome to my Data Structure tutorial! I will be showcasing the usage of three integral Data Structures using the Python programming language, namely Queue, Set, and Tree. Links to each tutorial can be found below.
 
 Queue:
 
