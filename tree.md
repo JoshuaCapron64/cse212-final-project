@@ -67,4 +67,18 @@ Post-order traversal:
 """
 ```
 
-The following links lead to a practice problem. In this example,
+The following links lead to a practice problem. In this example, you are tasked with creating your own binary tree from scratch. The nodes must consist of a root node with the value 2 stored in it, two children nodes of that root node with values of 3 and 4 respectively, and then the children nodes of those must include the numbers that result from the root being both added to, and multiplied by their corrresponding parent nodes (one node must contain the answer to the addition, the other must contain the answer to the multiplication). Then you must traverse through your tree using each of the three recursive traversal methods demonstrated in the example problem.
+
+On Github:
+[Tree Practice](https://github.com/JoshuaCapron64/cse212-final-project/blob/main/tree_tutorial.py)
+
+On VSCode:
+[Tree Practice](tree_tutorial.py)
+
+Back to Welcome:
+
+On Github:
+[Welcome](https://github.com/JoshuaCapron64/cse212-final-project/blob/main/welcome.md)
+
+On VSCode:
+[Welcome](welcome.md)
